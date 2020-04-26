@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I am a 4th year PhD student at Vanderbilt University studying chemistry under Dr. Timothy Hanusa. You are reading my personal website, so thank you for visiting! I wanted to make a website to have a place on the internet that would serve as an online CV and I could blog from, and make me searchable. I have made this website using GitHub Pages, which implements Jekyll. This is based on the PortfolYOU template at https://github.com/YoussefRaafatNasry/portfolYOU by Youssef Raafat.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
