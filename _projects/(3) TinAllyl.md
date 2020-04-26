@@ -1,7 +1,7 @@
 ---
-name: Mechanochemically Driven Transformations in Organotin Chemistry: Stereochemical Rearrangement, Redox Behavior, and Dispersion-Stabilized Complexes
-tools: [Tin, group 14, allyl, mechanochemistry, redox, dispersion, DFT]
-image: https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/jacsat/2018/jacsat.2018.140.issue-46/jacs.8b09862/20181114/images/medium/ja-2018-098623_0013.gif
-description: Ball milling SnCl2 + KA' produced an unsolvated stannate, but also a tetra-allyltin species arising from the first example of mechanochemically induced redox. Based on its instability in solution and dispersion-corrected DFT, the tetra-allyltin is stabilized by inter-ligand dispersion that is interrupted by solvents
-external_url: https://pubs.acs.org/doi/10.1021/jacs.8b09862
+name: An η3‐Bound Allyl Ligand on Magnesium in a Mechanochemically Generated Mg/K Allyl Complex
+tools: [magnesium, group 2, polymerization, DFT, mechanochemistry, allyl]
+image: https://onlinelibrary.wiley.com/cms/asset/01a72fa8-f54e-4488-95a1-1d961f3f6adb/ange201916410-toc-0001-m.jpg
+description: By avoiding coordinating solvent, we isolated the first η3‐Bound allyl on magnesium. DFT calculations helped us understand the bonding, and make a "recipe" for how to predict eta-3 allyls based on coordination number
+external_url: https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201916410
 ---
