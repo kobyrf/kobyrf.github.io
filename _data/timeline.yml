@@ -1,17 +1,15 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Undergraduate at McGill University
+  from: 2012
+  to: 2016
+  description: From my sophomore to my senior year, I did research under the supervision of
+  Tomislav Friščić in the sustainable synthesis of metal-organic frameworks, organic frameworks, and
+  organometallics. As you may have guessed, this inspired my continued interest in m-chem and organometallics.
 
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: PhD Student, Vanderbilt University
+  from: 2016
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: In January of 2017, I officially joined the Hanusa group. I've worked on a variety of projects that are
+  listed under the projects section of this site. I'm very proud that I can show that mechanochemistry and other sustainable techniques
+   are really spectacular synthetic techniques that may reshape how we think about chemistry. During this time, I have also learned a lot about
+   DFT with the help of my supervisor, which has been integral for almost all of my work, since many of the molecules we isolate are sensitive or transient.
+   
