@@ -14,7 +14,12 @@ I am a 4th year PhD student at Vanderbilt University studying  chemistry under D
 I'm an avid music fan, mostly on the rock side. I've been playing
 electric bass since I was 12 and am working on picking up the guitar again.
 I currently play bass in [Pepper Said](https://www.peppersaid.com/)
-and my hometown high school / college town [Southpaws](https://southpavvs.bandcamp.com/) (with some of my best friends) has still not broken up
+and my hometown high school / college town [Southpaws](https://southpavvs.bandcamp.com/) (with some of my best friends) has still not broken up.
+
+I'm a fan of just about anything creative, I enjoy reading, playing video games, music, movies, art, museums, etc.
+I used to be pretty obsessed with coffee and have been pretty happy with the [Prismo](https://fellowproducts.com/products/prismo), a replacement filter cap that has a pressure valve and removable metal filter. This lets you avoid using paper filters and build more pressure for a more espresso-like cup. I like to use the inverted method.
+
+I also enjoy road cycling and rock climbing though I'm pretty much a novice at both.
 
 <div class="row">
 {% include about/timeline.html %}
