@@ -1,7 +1,7 @@
 - name: Gaussian
-  percentage:
-  color: info
+  description: Most of the work I do is with Gaussian
 
-- name: Orca
-  percentage: 
-  color: success
+- name: ORCA
+  description: I'm in the process of becoming comfortable with ORCA, it's great
+  to have the option to use free software, and it is supposed to be very fast due
+  to some of the approximations it can make. 
