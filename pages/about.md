@@ -13,10 +13,10 @@ I am a 4th year PhD student at Vanderbilt University studying  chemistry under D
 # **Chemistry**
 
 # **Other Interests**
-"I'm an avid music fan, mostly on the rock side. I've been playing
+I'm an avid music fan, mostly on the rock side. I've been playing
 electric bass since I was 12 and am working on picking up the guitar again.
 I currently play bass in Pepper Said https://www.peppersaid.com/
-and my hometown high school / college town Southpaws (with some of my best friends) has still not broken up https://southpavvs.bandcamp.com/ "
+and my hometown high school / college town Southpaws (with some of my best friends) has still not broken up https://southpavvs.bandcamp.com/ 
 
 <div class="row">
 {% include about/timeline.html %}
