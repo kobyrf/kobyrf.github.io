@@ -12,7 +12,7 @@ I am a 4th year PhD student at Vanderbilt University studying  chemistry under D
 
 <div class="row">
  {% include title="Computational Software" source=site.data.Comp-Software %}
-{% include title="Other Interests" source=site.data.other-interests %}
+{% include about/skills.html title="Other Interests" source=site.data.other-interests %}
 </div>
 
 <div class="row">
