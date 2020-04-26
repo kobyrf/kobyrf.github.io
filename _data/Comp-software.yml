@@ -1,0 +1,7 @@
+- name: Gaussian
+  percentage:
+  color: info
+
+- name: Orca
+  percentage: 
+  color: success
