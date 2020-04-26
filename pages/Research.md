@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-weight: 5
+weight: 2
 ---
 
 # **About Me**
